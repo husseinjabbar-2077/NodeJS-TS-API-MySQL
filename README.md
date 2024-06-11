@@ -2,7 +2,7 @@
 
 NodeJS-TS-API-MySQL
 
-# Run Code
+# Run Code BUILD
 
 ```bash
 npx tsc
@@ -13,4 +13,10 @@ npx tsc
 ```bash
 npx tsc
 npx javascript-obfuscator dist/index.js --output dist/index.obfuscated.js
+```
+
+# Run
+
+```bash
+npx ts-node src/index.ts
 ```
