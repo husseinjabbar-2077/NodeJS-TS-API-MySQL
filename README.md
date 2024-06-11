@@ -1,4 +1,4 @@
-# NodeJS-TS-API-MySQL
+# Node.JS With TypeScript API MYSQL - EXPRESS
 
 NodeJS-TS-API-MySQL
 
